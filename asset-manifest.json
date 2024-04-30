@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/site-portfolio/static/css/main.69e28601.css",
-    "main.js": "/site-portfolio/static/js/main.be84e69c.js",
+    "main.css": "/site-portfolio/static/css/main.b6ff06fd.css",
+    "main.js": "/site-portfolio/static/js/main.28ecfb59.js",
     "static/media/main-bg.png": "/site-portfolio/static/media/main-bg.51788523dd4f61d9f506.png",
-    "static/media/avatar.png": "/site-portfolio/static/media/avatar.5ef331a94d32d34dbf93.png",
     "static/media/project9.png": "/site-portfolio/static/media/project9.730e6195881e5d8f8b3e.png",
     "static/media/project8.png": "/site-portfolio/static/media/project8.7d322083e39b7f2f8dc9.png",
     "static/media/project6.png": "/site-portfolio/static/media/project6.d787827c7147bc2d1d12.png",
@@ -14,6 +13,7 @@
     "static/media/project3.png": "/site-portfolio/static/media/project3.28f5280bafb3f0a7a987.png",
     "static/media/project11.png": "/site-portfolio/static/media/project11.8c7ce7ca2f5fe57f00c8.png",
     "static/media/project2.png": "/site-portfolio/static/media/project2.570d3d8e0fbd609f39ff.png",
+    "static/media/avatar.jpg": "/site-portfolio/static/media/avatar.3d1963f9eb271e8f8dfe.jpg",
     "static/media/Murad_Abdulaev_resume.pdf": "/site-portfolio/static/media/Murad_Abdulaev_resume.bc7764e92a5b6deaeed3.pdf",
     "static/media/lounge-image.png": "/site-portfolio/static/media/lounge-image.eac90e029760768d34a3.png",
     "static/media/burger-image.png": "/site-portfolio/static/media/burger-image.f6408b2cd766658bc9c7.png",
@@ -52,11 +52,11 @@
     "static/media/socket-io.svg": "/site-portfolio/static/media/socket-io.233288ab048aab089dbd4b8ce0525539.svg",
     "static/media/burger-ico.svg": "/site-portfolio/static/media/burger-ico.a08d9ce60ebee56e11ec53a9b2656464.svg",
     "static/media/close-ico.svg": "/site-portfolio/static/media/close-ico.2952764adda3a1badc4bab7dc611a84e.svg",
-    "main.69e28601.css.map": "/site-portfolio/static/css/main.69e28601.css.map",
-    "main.be84e69c.js.map": "/site-portfolio/static/js/main.be84e69c.js.map"
+    "main.b6ff06fd.css.map": "/site-portfolio/static/css/main.b6ff06fd.css.map",
+    "main.28ecfb59.js.map": "/site-portfolio/static/js/main.28ecfb59.js.map"
   },
   "entrypoints": [
-    "static/css/main.69e28601.css",
-    "static/js/main.be84e69c.js"
+    "static/css/main.b6ff06fd.css",
+    "static/js/main.28ecfb59.js"
   ]
 }
